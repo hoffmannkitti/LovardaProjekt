@@ -1,0 +1,6 @@
+@lovarda_backend_HostAddress = http://localhost:5073
+
+GET {{lovarda_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

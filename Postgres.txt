@@ -1,0 +1,15 @@
+jelszó: Kitti2003
+port: 5432
+
+
+Host: localhost
+User Name: postgres
+Password: Kitti2003
+Port: 5432
+
+Operating system username: postgres
+System user password: Kitti2003
+Retype password: Kitti2003
+
+PgBouncer Configuration: 
+Listening Port: 6432

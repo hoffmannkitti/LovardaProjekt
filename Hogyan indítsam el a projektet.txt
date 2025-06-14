@@ -1,0 +1,4 @@
+Feladat	Parancs / Indítás helye	Miért?
+Indítsd a PostgreSQL-t	Windows Services / pgAdmin / parancs	Hogy legyen élő adatbázis
+Indítsd a backendet	dotnet run a backend mappában	Hogy API válaszoljon a kérésekre
+Indítsd a frontendet	ng serve a frontend mappában	Hogy megjelenjen a weboldal
